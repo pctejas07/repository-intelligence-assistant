@@ -319,8 +319,3 @@ This project demonstrates:
 * Code Intelligence Systems
 * Repository Analysis
 
----
-
-## License
-
-MIT License
