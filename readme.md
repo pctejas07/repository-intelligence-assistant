@@ -1,4 +1,4 @@
-# GitHub Codebase Assistant
+# Repository Intelligence Assistant
 
 A GraphRAG-powered code intelligence assistant that helps developers understand, explore, and analyze Java and Python repositories using Hybrid Search, Knowledge Graphs, and Local LLMs.
 
