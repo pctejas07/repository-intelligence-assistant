@@ -11,7 +11,7 @@ from app.api.graph import (
 )
 
 app = FastAPI(
-    title="GitHub Codebase Assistant",
+    title="Repository Intelligence Assistant",
     version="1.0.0",
     description="Advanced GraphRAG-based GitHub Repository Assistant"
 )
